@@ -1,14 +1,12 @@
-<h2>How-to-Install-Nessus-on-Kali-Linux</h2>
+<h2>Nessus Vulnerability Scanner Installation On Kali Linux</h2>
 <img src="Folder/How-to-install-Nessus-on-Kali-Linux-Windows.webp">
 
 
-To find vulnerabilities in systems or networks using the Nessus vulnerability scanner, you first need to understand how to install it.
-
-In this step-by-step tutorial, we’ll briefly discuss Nessus and then show you how to download, install, and start it on  Kali.
+With the Kali Linux mounted on my virtual machine, conducting a vulnerability assessments in systems or networks is possible using Nessus, this work through shows the ste-by-step taken from the downloading to the installation and starting the Nessus on Kali Linux.
 
 
 <h2>What Is Nessus?</h2>
-Nessus is a robust tool by Tenable that can scan for vulnerabilities in networks, operating systems, databases, and applications.
+Nessus is a robust tool, the world's No. 1 vulnerability scanning solution by Tenable that can scan for vulnerabilities in networks, operating systems, databases, and applications.
 
 It provides detailed reports on security weaknesses and prioritizes them based on severity.
 
